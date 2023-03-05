@@ -1,2 +1,2 @@
-email : cho	
+email : cho@gmail.com
 gitID :
